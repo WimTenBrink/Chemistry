@@ -1,0 +1,710 @@
+[
+	{
+		"atom": 1,
+		"symbol": "H",
+		"group": 1,
+		"row": 1
+	},
+	{
+		"atom": 2,
+		"symbol": "He",
+		"group": 18,
+		"row": 1
+	},
+	{
+		"atom": 3,
+		"symbol": "Li",
+		"group": 1,
+		"row": 2
+	},
+	{
+		"atom": 4,
+		"symbol": "Be",
+		"group": 2,
+		"row": 2
+	},
+	{
+		"atom": 5,
+		"symbol": "B",
+		"group": 13,
+		"row": 2
+	},
+	{
+		"atom": 6,
+		"symbol": "C",
+		"group": 14,
+		"row": 2
+	},
+	{
+		"atom": 7,
+		"symbol": "N",
+		"group": 15,
+		"row": 2
+	},
+	{
+		"atom": 8,
+		"symbol": "O",
+		"group": 16,
+		"row": 2
+	},
+	{
+		"atom": 9,
+		"symbol": "F",
+		"group": 17,
+		"row": 2
+	},
+	{
+		"atom": 10,
+		"symbol": "Ne",
+		"group": 18,
+		"row": 2
+	},
+	{
+		"atom": 11,
+		"symbol": "Na",
+		"group": 1,
+		"row": 3
+	},
+	{
+		"atom": 12,
+		"symbol": "Mg",
+		"group": 2,
+		"row": 3
+	},
+	{
+		"atom": 13,
+		"symbol": "Al",
+		"group": 13,
+		"row": 3
+	},
+	{
+		"atom": 14,
+		"symbol": "Si",
+		"group": 14,
+		"row": 3
+	},
+	{
+		"atom": 15,
+		"symbol": "P",
+		"group": 15,
+		"row": 3
+	},
+	{
+		"atom": 16,
+		"symbol": "S",
+		"group": 16,
+		"row": 3
+	},
+	{
+		"atom": 17,
+		"symbol": "Cl",
+		"group": 17,
+		"row": 3
+	},
+	{
+		"atom": 18,
+		"symbol": "Ar",
+		"group": 18,
+		"row": 3
+	},
+	{
+		"atom": 19,
+		"symbol": "K",
+		"group": 1,
+		"row": 4
+	},
+	{
+		"atom": 20,
+		"symbol": "Ca",
+		"group": 2,
+		"row": 4
+	},
+	{
+		"atom": 21,
+		"symbol": "Sc",
+		"group": 3,
+		"row": 4
+	},
+	{
+		"atom": 22,
+		"symbol": "Ti",
+		"group": 4,
+		"row": 4
+	},
+	{
+		"atom": 23,
+		"symbol": "V",
+		"group": 5,
+		"row": 4
+	},
+	{
+		"atom": 24,
+		"symbol": "Cr",
+		"group": 6,
+		"row": 4
+	},
+	{
+		"atom": 25,
+		"symbol": "Mn",
+		"group": 7,
+		"row": 4
+	},
+	{
+		"atom": 26,
+		"symbol": "Fe",
+		"group": 8,
+		"row": 4
+	},
+	{
+		"atom": 27,
+		"symbol": "Co",
+		"group": 9,
+		"row": 4
+	},
+	{
+		"atom": 28,
+		"symbol": "Ni",
+		"group": 10,
+		"row": 4
+	},
+	{
+		"atom": 29,
+		"symbol": "Cu",
+		"group": 11,
+		"row": 4
+	},
+	{
+		"atom": 30,
+		"symbol": "Zn",
+		"group": 12,
+		"row": 4
+	},
+	{
+		"atom": 31,
+		"symbol": "Ga",
+		"group": 13,
+		"row": 4
+	},
+	{
+		"atom": 32,
+		"symbol": "Ge",
+		"group": 14,
+		"row": 4
+	},
+	{
+		"atom": 33,
+		"symbol": "As",
+		"group": 15,
+		"row": 4
+	},
+	{
+		"atom": 34,
+		"symbol": "Se",
+		"group": 16,
+		"row": 4
+	},
+	{
+		"atom": 35,
+		"symbol": "Br",
+		"group": 17,
+		"row": 4
+	},
+	{
+		"atom": 36,
+		"symbol": "Kr",
+		"group": 18,
+		"row": 4
+	},
+	{
+		"atom": 37,
+		"symbol": "Rb",
+		"group": 1,
+		"row": 5
+	},
+	{
+		"atom": 38,
+		"symbol": "Sr",
+		"group": 2,
+		"row": 5
+	},
+	{
+		"atom": 39,
+		"symbol": "Y",
+		"group": 3,
+		"row": 5
+	},
+	{
+		"atom": 40,
+		"symbol": "Zr",
+		"group": 4,
+		"row": 5
+	},
+	{
+		"atom": 41,
+		"symbol": "Nb",
+		"group": 5,
+		"row": 5
+	},
+	{
+		"atom": 42,
+		"symbol": "Mo",
+		"group": 6,
+		"row": 5
+	},
+	{
+		"atom": 43,
+		"symbol": "Tc",
+		"group": 7,
+		"row": 5
+	},
+	{
+		"atom": 44,
+		"symbol": "Ru",
+		"group": 8,
+		"row": 5
+	},
+	{
+		"atom": 45,
+		"symbol": "Rh",
+		"group": 9,
+		"row": 5
+	},
+	{
+		"atom": 46,
+		"symbol": "Pd",
+		"group": 10,
+		"row": 5
+	},
+	{
+		"atom": 47,
+		"symbol": "Ag",
+		"group": 11,
+		"row": 5
+	},
+	{
+		"atom": 48,
+		"symbol": "Cd",
+		"group": 12,
+		"row": 5
+	},
+	{
+		"atom": 49,
+		"symbol": "In",
+		"group": 13,
+		"row": 5
+	},
+	{
+		"atom": 50,
+		"symbol": "Sn",
+		"group": 14,
+		"row": 5
+	},
+	{
+		"atom": 51,
+		"symbol": "Sb",
+		"group": 15,
+		"row": 5
+	},
+	{
+		"atom": 52,
+		"symbol": "Te",
+		"group": 16,
+		"row": 5
+	},
+	{
+		"atom": 53,
+		"symbol": "I",
+		"group": 17,
+		"row": 5
+	},
+	{
+		"atom": 54,
+		"symbol": "Xe",
+		"group": 18,
+		"row": 5
+	},
+	{
+		"atom": 55,
+		"symbol": "Cs",
+		"group": 1,
+		"row": 6
+	},
+	{
+		"atom": 56,
+		"symbol": "Ba",
+		"group": 2,
+		"row": 6
+	},
+	{
+		"atom": 57,
+		"symbol": "La",
+		"group": 3,
+		"row": 9
+	},
+	{
+		"atom": 58,
+		"symbol": "Ce",
+		"group": 3,
+		"row": 9
+	},
+	{
+		"atom": 59,
+		"symbol": "Pr",
+		"group": 3,
+		"row": 9
+	},
+	{
+		"atom": 60,
+		"symbol": "Nd",
+		"group": 3,
+		"row": 9
+	},
+	{
+		"atom": 61,
+		"symbol": "Pm",
+		"group": 3,
+		"row": 9
+	},
+	{
+		"atom": 62,
+		"symbol": "Sm",
+		"group": 3,
+		"row": 9
+	},
+	{
+		"atom": 63,
+		"symbol": "Eu",
+		"group": 3,
+		"row": 9
+	},
+	{
+		"atom": 64,
+		"symbol": "Gd",
+		"group": 3,
+		"row": 9
+	},
+	{
+		"atom": 65,
+		"symbol": "Tb",
+		"group": 3,
+		"row": 9
+	},
+	{
+		"atom": 66,
+		"symbol": "Dy",
+		"group": 3,
+		"row": 9
+	},
+	{
+		"atom": 67,
+		"symbol": "Ho",
+		"group": 3,
+		"row": 9
+	},
+	{
+		"atom": 68,
+		"symbol": "Er",
+		"group": 3,
+		"row": 9
+	},
+	{
+		"atom": 69,
+		"symbol": "Tm",
+		"group": 3,
+		"row": 9
+	},
+	{
+		"atom": 70,
+		"symbol": "Yb",
+		"group": 3,
+		"row": 9
+	},
+	{
+		"atom": 71,
+		"symbol": "Lu",
+		"group": 3,
+		"row": 9
+	},
+	{
+		"atom": 72,
+		"symbol": "Hf",
+		"group": 4,
+		"row": 6
+	},
+	{
+		"atom": 73,
+		"symbol": "Ta",
+		"group": 5,
+		"row": 6
+	},
+	{
+		"atom": 74,
+		"symbol": "W",
+		"group": 6,
+		"row": 6
+	},
+	{
+		"atom": 75,
+		"symbol": "Re",
+		"group": 7,
+		"row": 6
+	},
+	{
+		"atom": 76,
+		"symbol": "Os",
+		"group": 8,
+		"row": 6
+	},
+	{
+		"atom": 77,
+		"symbol": "Ir",
+		"group": 9,
+		"row": 6
+	},
+	{
+		"atom": 78,
+		"symbol": "Pt",
+		"group": 10,
+		"row": 6
+	},
+	{
+		"atom": 79,
+		"symbol": "Au",
+		"group": 11,
+		"row": 6
+	},
+	{
+		"atom": 80,
+		"symbol": "Hg",
+		"group": 12,
+		"row": 6
+	},
+	{
+		"atom": 81,
+		"symbol": "Tl",
+		"group": 13,
+		"row": 6
+	},
+	{
+		"atom": 82,
+		"symbol": "Pb",
+		"group": 14,
+		"row": 6
+	},
+	{
+		"atom": 83,
+		"symbol": "Bi",
+		"group": 15,
+		"row": 6
+	},
+	{
+		"atom": 84,
+		"symbol": "Po",
+		"group": 16,
+		"row": 6
+	},
+	{
+		"atom": 85,
+		"symbol": "At",
+		"group": 17,
+		"row": 6
+	},
+	{
+		"atom": 86,
+		"symbol": "Rn",
+		"group": 18,
+		"row": 6
+	},
+	{
+		"atom": 87,
+		"symbol": "Fr",
+		"group": 1,
+		"row": 7
+	},
+	{
+		"atom": 88,
+		"symbol": "Ra",
+		"group": 2,
+		"row": 7
+	},
+	{
+		"atom": 89,
+		"symbol": "Ac",
+		"group": 3,
+		"row": 10
+	},
+	{
+		"atom": 90,
+		"symbol": "Th",
+		"group": 3,
+		"row": 10
+	},
+	{
+		"atom": 91,
+		"symbol": "Pa",
+		"group": 3,
+		"row": 10
+	},
+	{
+		"atom": 92,
+		"symbol": "U",
+		"group": 3,
+		"row": 10
+	},
+	{
+		"atom": 93,
+		"symbol": "Np",
+		"group": 3,
+		"row": 10
+	},
+	{
+		"atom": 94,
+		"symbol": "Pu",
+		"group": 3,
+		"row": 10
+	},
+	{
+		"atom": 95,
+		"symbol": "Am",
+		"group": 3,
+		"row": 10
+	},
+	{
+		"atom": 96,
+		"symbol": "Cm",
+		"group": 3,
+		"row": 10
+	},
+	{
+		"atom": 97,
+		"symbol": "Bk",
+		"group": 3,
+		"row": 10
+	},
+	{
+		"atom": 98,
+		"symbol": "Cf",
+		"group": 3,
+		"row": 10
+	},
+	{
+		"atom": 99,
+		"symbol": "Es",
+		"group": 3,
+		"row": 10
+	},
+	{
+		"atom": 100,
+		"symbol": "Fm",
+		"group": 3,
+		"row": 10
+	},
+	{
+		"atom": 101,
+		"symbol": "Md",
+		"group": 3,
+		"row": 10
+	},
+	{
+		"atom": 102,
+		"symbol": "No",
+		"group": 3,
+		"row": 10
+	},
+	{
+		"atom": 103,
+		"symbol": "Lr",
+		"group": 3,
+		"row": 10
+	},
+	{
+		"atom": 104,
+		"symbol": "Rf",
+		"group": 4,
+		"row": 7
+	},
+	{
+		"atom": 105,
+		"symbol": "Db",
+		"group": 5,
+		"row": 7
+	},
+	{
+		"atom": 106,
+		"symbol": "Sg",
+		"group": 6,
+		"row": 7
+	},
+	{
+		"atom": 107,
+		"symbol": "Bh",
+		"group": 7,
+		"row": 7
+	},
+	{
+		"atom": 108,
+		"symbol": "Hs",
+		"group": 8,
+		"row": 7
+	},
+	{
+		"atom": 109,
+		"symbol": "Mt",
+		"group": 9,
+		"row": 7
+	},
+	{
+		"atom": 110,
+		"symbol": "Ds",
+		"group": 10,
+		"row": 7
+	},
+	{
+		"atom": 111,
+		"symbol": "Rg",
+		"group": 11,
+		"row": 7
+	},
+	{
+		"atom": 112,
+		"symbol": "Cn",
+		"group": 12,
+		"row": 7
+	},
+	{
+		"atom": 113,
+		"symbol": "Nh",
+		"group": 13,
+		"row": 7
+	},
+	{
+		"atom": 114,
+		"symbol": "Fl",
+		"group": 14,
+		"row": 7
+	},
+	{
+		"atom": 115,
+		"symbol": "Mc",
+		"group": 15,
+		"row": 7
+	},
+	{
+		"atom": 116,
+		"symbol": "Lv",
+		"group": 16,
+		"row": 7
+	},
+	{
+		"atom": 117,
+		"symbol": "Ts",
+		"group": 17,
+		"row": 7
+	},
+	{
+		"atom": 118,
+		"symbol": "Og",
+		"group": 18,
+		"row": 7
+	}
+]

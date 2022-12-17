@@ -1,0 +1,65 @@
+[
+	{
+		"Name": "Avogadro's Number",
+		"Symbol": "N_A",
+		"Value": 6.02214076e23,
+		"Unit": "mol^-1",
+		"Description": "Avogadro's Number is used to calculate the number of atoms, molecules, or other entities in a given sample of a substance. It is also the base unit for the amount of substance in the International System of Units (SI)."
+	},
+	{
+		"Name": "Boltzmann Constant",
+		"Symbol": "k_B",
+		"Value": 1.380649e-23,
+		"Unit": "J/K",
+		"Description": "The Boltzmann constant is used to relate the average kinetic energy of particles to the temperature of a system. It is also used to calculate the entropy of a system."
+	},
+	{
+		"Name": "Euler's Number",
+		"Symbol": "e",
+		"Value": 2.718281828459045,
+		"Unit": "",
+		"Description": "Euler's Number is an important mathematical constant that is used to calculate exponential growth and decay. It is also used in calculus and other branches of mathematics."
+	},
+	{
+		"Name": "Gas Constant",
+		"Symbol": "R",
+		"Value": 8.3144598,
+		"Unit": "J·mol^-1·K^-1",
+		"Description": "The Gas Constant is used to calculate the pressure, volume, and temperature of a gas. It is also used to calculate the energy of a system at a given temperature."
+	},
+	{
+		"Name": "Gravitational Constant",
+		"Symbol": "G",
+		"Value": 6.67408e-11,
+		"Unit": "m^3·kg^-1·s^-2",
+		"Description": "The Gravitational Constant is used to calculate the force of gravity between two objects. It is also used to calculate the mass and radius of a given object."
+	},
+	{
+		"Name": "Planck's Constant",
+		"Symbol": "h",
+		"Value": 6.62607015e-34,
+		"Unit": "m^2·kg/s",
+		"Description": "Planck's Constant is used to calculate the energy of a photon, or the energy of a system in quantum mechanics. It is also used to calculate the angular momentum of a system."
+	},
+	{
+		"Name": "Pi",
+		"Symbol": "π",
+		"Value": 3.141592653589793,
+		"Unit": "",
+		"Description": "Pi is an important mathematical constant used to calculate the circumference and area of a circle, as well as the volume of a sphere. It is also used in calculus and other branches of mathematics."
+	},
+	{
+		"Name": "Speed of Light in a Vacuum",
+		"Symbol": "c",
+		"Value": 299792458,
+		"Unit": "m/s",
+		"Description": "The Speed of Light in a Vacuum is the speed at which light travels in a vacuum. It is used to calculate the wavelength of a wave and is used in relativity and quantum mechanics."
+	},
+	{
+		"Name": "Stefan-Boltzmann Constant",
+		"Symbol": "σ",
+		"Value": 5.670374419e-8,
+		"Unit": "W·m^-2·K^-4",
+		"Description": "The Stefan-Boltzmann Constant is used to calculate the total energy emitted by a black body in a given temperature. It is also used to calculate the total energy in a given system."
+	}
+]

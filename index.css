@@ -1,0 +1,109 @@
+/*
+Copyright (c) 2022 Fanny and Fiona Foxboom
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+*/
+
+body {
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 0.5em;
+}
+
+.intro {
+    border: 1px solid black;
+    padding: 1em;
+    font-size: 1.2em;
+}
+
+h3 {
+    font-size: 1.3em;
+    font-weight: bold;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+li {
+    margin-bottom: 0.5em;
+}
+
+.copyright {
+    font-size: 0.8em;
+    font-style: italic;
+    margin-top: 1em;
+    margin-bottom: 1em;
+	}
+
+@media screen and (min-width: 600px) {
+    body {
+        font-size: 1.2em;
+    }
+    h1 {
+        font-size: 3em;
+    }
+    .intro {
+        font-size: 1.5em;
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    body {
+        font-size: 1.5em;
+    }
+    h1 {
+        font-size: 4em;
+    }
+    .intro {
+        font-size: 2em;
+    }
+}
+
+.panel {
+	width: 20%;
+	min-width: 120px;
+}
+
+.panel img {
+	width: 100%;
+	border-radius: 10px;
+}
+
+@media (max-width: 768px) {
+	.panel {
+		display: none;
+	}
+}
+
+.container {
+	display: flex;
+}
+
+.main-content {
+	margin: 0 auto;
+    width: 100%;
+    height: 90vh;
+    overflow: auto;
+    background-color: #c2c2c2;
+}

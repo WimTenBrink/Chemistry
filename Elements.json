@@ -1,0 +1,1526 @@
+[
+	{
+		"atomicNumber": 0,
+		"weight": 1,
+		"name": "Neutron",
+		"symbol": "n",
+		"description": "The neutron is a subatomic particle with no charge and a mass slightly larger than a proton.",
+		"usage": "Neutrons are primarily used to study the structure of nuclei, and also in nuclear medicine, nuclear power, and nuclear weapons.",
+		"stableIsotopes": []
+	},
+	{
+		"atomicNumber": 1,
+		"weight": 1.00794,
+		"name": "Hydrogen",
+		"symbol": "H",
+		"description": "Hydrogen is the lightest element on the periodic table, with the atomic number 1. It is the most abundant element in the universe and makes up about 75% of the universe's elemental mass.",
+		"usage": "Hydrogen is used in many industries, including rocket fuel, ammonia production, and making of synthetic organic compounds such as plastics.",
+		"stableIsotopes": []
+	},
+	{
+		"atomicNumber": 2,
+		"weight": 4.002602,
+		"name": "Helium",
+		"symbol": "He",
+		"description": "Helium is the second element on the periodic table and the second most abundant element in the universe. It is a colorless, odorless, tasteless gas.",
+		"usage": "Helium is used in cryogenics, welding, and MRI scanners.",
+		"stableIsotopes": [
+			4
+		]
+	},
+	{
+		"atomicNumber": 3,
+		"weight": 6.941,
+		"name": "Lithium",
+		"symbol": "Li",
+		"description": "Lithium is the third element on the periodic table. It is a soft, silvery-white metal that is highly reactive and flammable.",
+		"usage": "Lithium is used in batteries, lubricants, and in the production of alloys.",
+		"stableIsotopes": [
+			6,
+			7
+		]
+	},
+	{
+		"atomicNumber": 4,
+		"weight": 9.012182,
+		"name": "Beryllium",
+		"symbol": "Be",
+		"description": "Beryllium is the fourth element on the periodic table. It is a silvery-white, brittle metal.",
+		"usage": "Beryllium is used in the aerospace industry, in the production of nuclear reactors, and in X-ray tubes.",
+		"stableIsotopes": [
+			9
+		]
+	},
+	{
+		"atomicNumber": 5,
+		"weight": 10.811,
+		"name": "Boron",
+		"symbol": "B",
+		"description": "Boron is the fifth element on the periodic table. It is a black, hard, and brittle element.",
+		"usage": "Boron is used in making special glass, ceramics, and semiconductors.",
+		"stableIsotopes": [
+			10
+		]
+	},
+	{
+		"atomicNumber": 6,
+		"weight": 12.0107,
+		"name": "Carbon",
+		"symbol": "C",
+		"description": "Carbon is the sixth element on the periodic table. It is a non-metallic element that is found in all organic compounds.",
+		"usage": "Carbon is used in diamonds, graphite, coal, and petroleum.",
+		"stableIsotopes": [
+			12,
+			13
+		]
+	},
+	{
+		"atomicNumber": 7,
+		"weight": 14.0067,
+		"name": "Nitrogen",
+		"symbol": "N",
+		"description": "Nitrogen is the seventh element on the periodic table. It is a colorless, odorless, tasteless gas.",
+		"usage": "Nitrogen is used in fertilizers, explosives, and in the production of ammonia.",
+		"stableIsotopes": [
+			14
+		]
+	},
+	{
+		"atomicNumber": 8,
+		"weight": 15.9994,
+		"name": "Oxygen",
+		"symbol": "O",
+		"description": "Oxygen is the eighth element on the periodic table. It is a colorless, odorless, tasteless gas.",
+		"usage": "Oxygen is used in rocket fuel, welding, and in the production of water.",
+		"stableIsotopes": [
+			16,
+			17,
+			18
+		]
+	},
+	{
+		"atomicNumber": 9,
+		"weight": 18.9984,
+		"name": "Fluorine",
+		"symbol": "F",
+		"description": "Fluorine is the ninth element on the periodic table. It is a poisonous, pale yellow gas.",
+		"usage": "Fluorine is used in refrigerants, cleaning agents, and in the production of uranium.",
+		"stableIsotopes": [
+			18,
+			19
+		]
+	},
+	{
+		"atomicNumber": 10,
+		"weight": 20.1797,
+		"name": "Neon",
+		"symbol": "Ne",
+		"description": "Neon is the tenth element on the periodic table. It is a colorless, odorless, tasteless gas.",
+		"usage": "Neon is used in fluorescent lights, lasers, and advertising signs.",
+		"stableIsotopes": [
+			20
+		]
+	},
+	{
+		"atomicNumber": 11,
+		"weight": 22.9897,
+		"name": "Sodium",
+		"symbol": "Na",
+		"description": "Sodium is the eleventh element on the periodic table. It is a soft, silvery-white metal.",
+		"usage": "Sodium is used in salt, baking soda, and in the production of alloys.",
+		"stableIsotopes": [
+			23
+		]
+	},
+	{
+		"atomicNumber": 12,
+		"weight": 24.305,
+		"name": "Magnesium",
+		"symbol": "Mg",
+		"description": "Magnesium is the twelfth element on the periodic table. It is a silver-white, lightweight metal.",
+		"usage": "Magnesium is used in fireworks, camera lenses, and in the production of alloys.",
+		"stableIsotopes": [
+			24,
+			25,
+			26
+		]
+	},
+	{
+		"atomicNumber": 13,
+		"weight": 26.9815,
+		"name": "Aluminum",
+		"symbol": "Al",
+		"description": "Aluminum is the thirteenth element on the periodic table. It is a silvery-white, lightweight metal.",
+		"usage": "Aluminum is used in foil, cans, and in the production of alloys.",
+		"stableIsotopes": [
+			27
+		]
+	},
+	{
+		"atomicNumber": 14,
+		"weight": 28.0855,
+		"name": "Silicon",
+		"symbol": "Si",
+		"description": "Silicon is the fourteenth element on the periodic table. It is a hard, brittle, gray-black solid.",
+		"usage": "Silicon is used in semiconductors, glass, and in the production of polymers.",
+		"stableIsotopes": [
+			28,
+			29,
+			30
+		]
+	},
+	{
+		"atomicNumber": 15,
+		"weight": 30.9738,
+		"name": "Phosphorus",
+		"symbol": "P",
+		"description": "Phosphorus is the fifteenth element on the periodic table. It is a non-metallic element, found in both organic and inorganic compounds.",
+		"usage": "Phosphorus is used in fertilizers, matches, and in the production of phosphoric acid.",
+		"stableIsotopes": [
+			31
+		]
+	},
+	{
+		"atomicNumber": 16,
+		"weight": 32.065,
+		"name": "Sulfur",
+		"symbol": "S",
+		"description": "Sulfur is the sixteenth element on the periodic table. It is a yellow, non-metallic element.",
+		"usage": "Sulfur is used in gunpowder, matches, and in the production of sulfuric acid.",
+		"stableIsotopes": [
+			32,
+			33,
+			34,
+			36
+		]
+	},
+	{
+		"atomicNumber": 17,
+		"weight": 35.453,
+		"name": "Chlorine",
+		"symbol": "Cl",
+		"description": "Chlorine is the seventeenth element on the periodic table. It is a greenish-yellow gas.",
+		"usage": "Chlorine is used in bleach, swimming pools, and in the production of chlorofluorocarbons.",
+		"stableIsotopes": [
+			35,
+			37
+		]
+	},
+	{
+		"atomicNumber": 18,
+		"weight": 39.948,
+		"name": "Argon",
+		"symbol": "Ar",
+		"description": "Argon is the eighteenth element on the periodic table. It is a colorless, odorless, tasteless gas.",
+		"usage": "Argon is used in light bulbs, lasers, and in the production of insulation and welding gases.",
+		"stableIsotopes": [
+			36,
+			38,
+			40
+		]
+	},
+	{
+		"atomicNumber": 19,
+		"weight": 39.0983,
+		"name": "Potassium",
+		"symbol": "K",
+		"description": "Potassium is the nineteenth element on the periodic table. It is a soft, silvery-white metal.",
+		"usage": "Potassium is used in fertilizer, baking soda, and in the production of alloys.",
+		"stableIsotopes": [
+			39,
+			40,
+			41
+		]
+	},
+	{
+		"atomicNumber": 20,
+		"weight": 40.078,
+		"name": "Calcium",
+		"symbol": "Ca",
+		"description": "Calcium is the twentieth element on the periodic table. It is a silver-white metal.",
+		"usage": "Calcium is used in cement, chalk, and in the production of alloys.",
+		"stableIsotopes": [
+			40,
+			42,
+			43,
+			44,
+			46,
+			48
+		]
+	},
+	{
+		"atomicNumber": 21,
+		"weight": 44.9559,
+		"name": "Scandium",
+		"symbol": "Sc",
+		"description": "Scandium is the twenty-first element on the periodic table. It is a silvery-white metal.",
+		"usage": "Scandium is used in alloys, in the aerospace industry, and in the production of fuel cells.",
+		"stableIsotopes": [
+			45
+		]
+	},
+	{
+		"atomicNumber": 22,
+		"weight": 47.867,
+		"name": "Titanium",
+		"symbol": "Ti",
+		"description": "Titanium is the twenty-second element on the periodic table. It is a silver-gray metal.",
+		"usage": "Titanium is used in aircraft, spacecraft, and in the production of alloys.",
+		"stableIsotopes": [
+			46,
+			47,
+			48,
+			49,
+			50
+		]
+	},
+	{
+		"atomicNumber": 23,
+		"weight": 50.9415,
+		"name": "Vanadium",
+		"symbol": "V",
+		"description": "Vanadium is the twenty-third element on the periodic table. It is a gray-white metal.",
+		"usage": "Vanadium is used in steel alloys, in the aerospace industry, and in the production of catalysts.",
+		"stableIsotopes": [
+			50,
+			51
+		]
+	},
+	{
+		"atomicNumber": 24,
+		"weight": 51.9961,
+		"name": "Chromium",
+		"symbol": "Cr",
+		"description": "Chromium is the twenty-fourth element on the periodic table. It is a hard, steel-gray metal.",
+		"usage": "Chromium is used in stainless steel, chrome plating, and in the production of catalysts.",
+		"stableIsotopes": [
+			50,
+			52,
+			53,
+			54
+		]
+	},
+	{
+		"atomicNumber": 25,
+		"weight": 54.938,
+		"name": "Manganese",
+		"symbol": "Mn",
+		"description": "Manganese is the twenty-fifth element on the periodic table. It is a hard, brittle, gray-white metal.",
+		"usage": "Manganese is used in aluminum alloys, steel production, and in the production of fertilizers.",
+		"stableIsotopes": [
+			55
+		]
+	},
+	{
+		"atomicNumber": 26,
+		"weight": 55.845,
+		"name": "Iron",
+		"symbol": "Fe",
+		"description": "Iron is the twenty-sixth element on the periodic table. It is a silvery-gray metal.",
+		"usage": "Iron is used in steel, in the production of alloys, and in the manufacture of tools.",
+		"stableIsotopes": [
+			54,
+			56,
+			57,
+			58
+		]
+	},
+	{
+		"atomicNumber": 27,
+		"weight": 58.6934,
+		"name": "Cobalt",
+		"symbol": "Co",
+		"description": "Cobalt is the twenty-seventh element on the periodic table. It is a silver-gray metal.",
+		"usage": "Cobalt is used in magnets, in the aerospace industry, and in the production of alloys.",
+		"stableIsotopes": [
+			59
+		]
+	},
+	{
+		"atomicNumber": 28,
+		"weight": 58.9332,
+		"name": "Nickel",
+		"symbol": "Ni",
+		"description": "Nickel is the twenty-eighth element on the periodic table. It is a hard, silvery-white metal.",
+		"usage": "Nickel is used in coins, stainless steel, and in the production of alloys.",
+		"stableIsotopes": [
+			58,
+			60,
+			61,
+			62,
+			64
+		]
+	},
+	{
+		"atomicNumber": 29,
+		"weight": 63.546,
+		"name": "Copper",
+		"symbol": "Cu",
+		"description": "Copper is the twenty-ninth element on the periodic table. It is a reddish-brown metal.",
+		"usage": "Copper is used in coins, electrical wiring, and in the production of alloys.",
+		"stableIsotopes": [
+			63,
+			65
+		]
+	},
+	{
+		"atomicNumber": 30,
+		"weight": 65.39,
+		"name": "Zinc",
+		"symbol": "Zn",
+		"description": "Zinc is the thirtieth element on the periodic table. It is a silver-white metal.",
+		"usage": "Zinc is used in galvanizing, in the production of alloys, and in the manufacture of ammunition.",
+		"stableIsotopes": [
+			64,
+			66,
+			67,
+			68,
+			70
+		]
+	},
+	{
+		"atomicNumber": 31,
+		"weight": 69.723,
+		"name": "Gallium",
+		"symbol": "Ga",
+		"description": "Gallium is the thirty-first element on the periodic table. It is a silvery-white metal.",
+		"usage": "Gallium is used in transistors, in the production of gallium arsenide, and in the manufacture of semiconductors.",
+		"stableIsotopes": [
+			69,
+			71
+		]
+	},
+	{
+		"atomicNumber": 32,
+		"weight": 72.64,
+		"name": "Germanium",
+		"symbol": "Ge",
+		"description": "Germanium is the thirty-second element on the periodic table. It is a gray-white metalloid.",
+		"usage": "Germanium is used in transistors, in the production of alloys, and in the manufacture of light-emitting diodes.",
+		"stableIsotopes": [
+			70,
+			72,
+			73,
+			74,
+			76
+		]
+	},
+	{
+		"atomicNumber": 33,
+		"weight": 74.9216,
+		"name": "Arsenic",
+		"symbol": "As",
+		"description": "Arsenic is the thirty-third element on the periodic table. It is a gray-white metalloid.",
+		"usage": "Arsenic is used in glass making, in the production of alloys, and in the manufacture of pesticides.",
+		"stableIsotopes": [
+			75
+		]
+	},
+	{
+		"atomicNumber": 34,
+		"weight": 78.96,
+		"name": "Selenium",
+		"symbol": "Se",
+		"description": "Selenium is the thirty-fourth element on the periodic table. It is a gray-black metalloid.",
+		"usage": "Selenium is used in dyes, in the production of alloys, and in the manufacture of solar cells.",
+		"stableIsotopes": [
+			74,
+			76,
+			77,
+			78,
+			80,
+			82
+		]
+	},
+	{
+		"atomicNumber": 35,
+		"weight": 79.904,
+		"name": "Bromine",
+		"symbol": "Br",
+		"description": "Bromine is the thirty-fifth element on the periodic table. It is a red-brown, corrosive, poisonous gas.",
+		"usage": "Bromine is used in fire retardants, in the production of alloys, and in the manufacture of pesticides.",
+		"stableIsotopes": [
+			79,
+			81
+		]
+	},
+	{
+		"atomicNumber": 36,
+		"weight": 83.8,
+		"name": "Krypton",
+		"symbol": "Kr",
+		"description": "Krypton is the thirty-sixth element on the periodic table. It is a colorless, odorless, tasteless gas.",
+		"usage": "Krypton is used in fluorescent lights, in the production of alloys, and in the manufacture of lasers.",
+		"stableIsotopes": [
+			78,
+			80,
+			82,
+			83,
+			84,
+			86
+		]
+	},
+	{
+		"atomicNumber": 37,
+		"weight": 85.4678,
+		"name": "Rubidium",
+		"symbol": "Rb",
+		"description": "Rubidium is the thirty-seventh element on the periodic table. It is a soft, silvery-white metal.",
+		"usage": "Rubidium is used in fireworks, in the production of alloys, and in the manufacture of photocells.",
+		"stableIsotopes": [
+			85,
+			87
+		]
+	},
+	{
+		"atomicNumber": 38,
+		"weight": 87.62,
+		"name": "Strontium",
+		"symbol": "Sr",
+		"description": "Strontium is the thirty-eighth element on the periodic table. It is a soft, silvery-white metal.",
+		"usage": "Strontium is used in fireworks, in the production of alloys, and in the manufacture of photocells.",
+		"stableIsotopes": [
+			84,
+			86,
+			87,
+			88
+		]
+	},
+	{
+		"atomicNumber": 39,
+		"weight": 88.9059,
+		"name": "Yttrium",
+		"symbol": "Y",
+		"description": "Yttrium is the thirty-ninth element on the periodic table. It is a silvery-white metal.",
+		"usage": "Yttrium is used in laser systems, in the production of alloys, and in the manufacture of light-emitting diodes.",
+		"stableIsotopes": [
+			89
+		]
+	},
+	{
+		"atomicNumber": 40,
+		"weight": 91.224,
+		"name": "Zirconium",
+		"symbol": "Zr",
+		"description": "Zirconium is the fortieth element on the periodic table. It is a gray-white metal.",
+		"usage": "Zirconium is used in nuclear reactors, in the production of alloys, and in the manufacture of catalysts.",
+		"stableIsotopes": [
+			90,
+			91,
+			92,
+			94,
+			96
+		]
+	},
+	{
+		"atomicNumber": 41,
+		"weight": 92.9064,
+		"name": "Niobium",
+		"symbol": "Nb",
+		"description": "Niobium is the forty-first element on the periodic table. It is a gray-white metal.",
+		"usage": "Niobium is used in superalloys, in the production of alloys, and in the manufacture of catalysts.",
+		"stableIsotopes": [
+			93
+		]
+	},
+	{
+		"atomicNumber": 42,
+		"weight": 95.94,
+		"name": "Molybdenum",
+		"symbol": "Mo",
+		"description": "Molybdenum is the forty-second element on the periodic table. It is a gray-white metal.",
+		"usage": "Molybdenum is used in high-strength steel alloys, in the production of alloys, and in the manufacture of catalysts.",
+		"stableIsotopes": [
+			92,
+			94,
+			95,
+			96,
+			97,
+			98,
+			100
+		]
+	},
+	{
+		"atomicNumber": 43,
+		"weight": 98,
+		"name": "Technetium",
+		"symbol": "Tc",
+		"description": "Technetium is the forty-third element on the periodic table. It is a gray-white metal.",
+		"usage": "Technetium is used in nuclear reactors, in the production of alloys, and in the manufacture of catalysts.",
+		"stableIsotopes": [
+			97,
+			98,
+			99
+		]
+	},
+	{
+		"atomicNumber": 44,
+		"weight": 101.07,
+		"name": "Ruthenium",
+		"symbol": "Ru",
+		"description": "Ruthenium is the forty-fourth element on the periodic table. It is a hard, silvery-white metal.",
+		"usage": "Ruthenium is used in high-temperature alloys, in the production of alloys, and in the manufacture of catalysts.",
+		"stableIsotopes": [
+			96,
+			98,
+			99,
+			100,
+			101,
+			102,
+			104
+		]
+	},
+	{
+		"atomicNumber": 45,
+		"weight": 102.9055,
+		"name": "Rhodium",
+		"symbol": "Rh",
+		"description": "Rhodium is the forty-fifth element on the periodic table. It is a hard, silvery-white metal.",
+		"usage": "Rhodium is used in electroplating, in the production of alloys, and in the manufacture of catalysts.",
+		"stableIsotopes": [
+			103
+		]
+	},
+	{
+		"atomicNumber": 46,
+		"weight": 106.42,
+		"name": "Palladium",
+		"symbol": "Pd",
+		"description": "Palladium is the forty-sixth element on the periodic table. It is a soft, silver-white metal.",
+		"usage": "Palladium is used in jewelry, in the production of alloys, and in the manufacture of catalysts.",
+		"stableIsotopes": [
+			102,
+			104,
+			105,
+			106,
+			108,
+			110
+		]
+	},
+	{
+		"atomicNumber": 47,
+		"weight": 107.8682,
+		"name": "Silver",
+		"symbol": "Ag",
+		"description": "Silver is the forty-seventh element on the periodic table. It is a soft, white, lustrous metal.",
+		"usage": "Silver is used in jewelry, coins, and tableware. It is also used in electrical contacts, and in mirrors and in solar cells.",
+		"stableIsotopes": [
+			107,
+			109
+		]
+	},
+	{
+		"atomicNumber": 48,
+		"weight": 112.411,
+		"name": "Cadmium",
+		"symbol": "Cd",
+		"description": "Cadmium is the forty-eighth element on the periodic table. It is a soft, bluish-white metal.",
+		"usage": "Cadmium is used in alloys, batteries, electroplating, and in the production of pigments.",
+		"stableIsotopes": [
+			106,
+			108,
+			110,
+			111,
+			112,
+			113,
+			114,
+			116
+		]
+	},
+	{
+		"atomicNumber": 49,
+		"weight": 114.818,
+		"name": "Indium",
+		"symbol": "In",
+		"description": "Indium is the forty-ninth element on the periodic table. It is a soft, silvery-white metal.",
+		"usage": "Indium is used in the manufacture of semiconductors, electronic components, alloys, and solders.",
+		"stableIsotopes": [
+			113,
+			115
+		]
+	},
+	{
+		"atomicNumber": 50,
+		"weight": 118.71,
+		"name": "Tin",
+		"symbol": "Sn",
+		"description": "Tin is the fiftieth element on the periodic table. It is a soft, malleable, silvery-white metal.",
+		"usage": "Tin is used in alloys, solders, and tin plating.",
+		"stableIsotopes": [
+			112,
+			114,
+			115,
+			116,
+			117,
+			118,
+			119,
+			120,
+			122,
+			124
+		]
+	},
+	{
+		"atomicNumber": 51,
+		"weight": 121.76,
+		"name": "Antimony",
+		"symbol": "Sb",
+		"description": "Antimony is the fifty-first element on the periodic table. It is a hard, brittle, silvery-white metal.",
+		"usage": "Antimony is used in flame-proofing materials, batteries, and semiconductors.",
+		"stableIsotopes": [
+			121,
+			123
+		]
+	},
+	{
+		"atomicNumber": 52,
+		"weight": 127.6,
+		"name": "Tellurium",
+		"symbol": "Te",
+		"description": "Tellurium is the fifty-second element on the periodic table. It is a brittle, lustrous, gray metalloid.",
+		"usage": "Tellurium is used in alloys, catalysts, and semiconductors.",
+		"stableIsotopes": [
+			120,
+			122,
+			123,
+			124,
+			125,
+			126,
+			128,
+			130
+		]
+	},
+	{
+		"atomicNumber": 53,
+		"weight": 126.9044,
+		"name": "Iodine",
+		"symbol": "I",
+		"description": "Iodine is the fifty-third element on the periodic table. It is a purple-black, lustrous solid.",
+		"usage": "Iodine is used in pharmaceuticals and in diagnostic tests.",
+		"stableIsotopes": [
+			127
+		]
+	},
+	{
+		"atomicNumber": 54,
+		"weight": 131.293,
+		"name": "Xenon",
+		"symbol": "Xe",
+		"description": "Xenon is the fifty-fourth element on the periodic table. It is a colorless, odorless, noble gas.",
+		"usage": "Xenon is used in lighting, photographic flash lamps, and medical imaging systems.",
+		"stableIsotopes": [
+			124,
+			126,
+			128,
+			129,
+			130,
+			131,
+			132,
+			134,
+			136
+		]
+	},
+	{
+		"atomicNumber": 55,
+		"weight": 132.9055,
+		"name": "Cesium",
+		"symbol": "Cs",
+		"description": "Cesium is the fifty-fifth element on the periodic table. It is a soft, silvery-gold metal.",
+		"usage": "Cesium is used in atomic clocks and in medical applications.",
+		"stableIsotopes": [
+			133
+		]
+	},
+	{
+		"atomicNumber": 56,
+		"weight": 137.327,
+		"name": "Barium",
+		"symbol": "Ba",
+		"description": "Barium is the fifty-sixth element on the periodic table. It is a soft, silvery, alkaline earth metal.",
+		"usage": "Barium is used in glazes, paints, and in the production of alloys.",
+		"stableIsotopes": [
+			130,
+			132,
+			134,
+			135,
+			136,
+			137,
+			138
+		]
+	},
+	{
+		"atomicNumber": 57,
+		"weight": 138.9055,
+		"name": "Lanthanum",
+		"symbol": "La",
+		"description": "Lanthanum is the fifty-seventh element on the periodic table. It is a soft, silvery, metallic element.",
+		"usage": "Lanthanum is used in the manufacture of ceramics, glass, and carbon arc lighting.",
+		"stableIsotopes": [
+			138,
+			139
+		]
+	},
+	{
+		"atomicNumber": 58,
+		"weight": 140.116,
+		"name": "Cerium",
+		"symbol": "Ce",
+		"description": "Cerium is the fifty-eighth element on the periodic table. It is a soft, ductile, silvery-white metal.",
+		"usage": "Cerium is used in the manufacture of glass, ceramics, and alloys.",
+		"stableIsotopes": [
+			136,
+			138,
+			140,
+			142
+		]
+	},
+	{
+		"atomicNumber": 59,
+		"weight": 140.9077,
+		"name": "Praseodymium",
+		"symbol": "Pr",
+		"description": "Praseodymium is the fifty-ninth element on the periodic table. It is a soft, silvery, metallic element.",
+		"usage": "Praseodymium is used in the manufacture of glass, ceramics, and alloys.",
+		"stableIsotopes": [
+			141
+		]
+	},
+	{
+		"atomicNumber": 60,
+		"weight": 144.24,
+		"name": "Neodymium",
+		"symbol": "Nd",
+		"description": "Neodymium is the sixtieth element on the periodic table. It is a soft, silvery-white, metallic element.",
+		"usage": "Neodymium is used in the manufacture of glass, ceramics, and alloys.",
+		"stableIsotopes": [
+			142,
+			143,
+			144,
+			145,
+			146,
+			148,
+			150
+		]
+	},
+	{
+		"atomicNumber": 61,
+		"weight": 145,
+		"name": "Promethium",
+		"symbol": "Pm",
+		"description": "Promethium is the sixty-first element on the periodic table. It is a soft, silvery-white, radioactive metal.",
+		"usage": "Promethium is used in nuclear batteries.",
+		"stableIsotopes": [
+			145
+		]
+	},
+	{
+		"atomicNumber": 62,
+		"weight": 150.36,
+		"name": "Samarium",
+		"symbol": "Sm",
+		"description": "Samarium is the sixty-second element on the periodic table. It is a soft, silvery-white, metallic element.",
+		"usage": "Samarium is used in the manufacture of alloys and magnets.",
+		"stableIsotopes": [
+			144,
+			147,
+			148,
+			149,
+			150,
+			152,
+			154
+		]
+	},
+	{
+		"atomicNumber": 63,
+		"weight": 151.964,
+		"name": "Europium",
+		"symbol": "Eu",
+		"description": "Europium is the sixty-third element on the periodic table. It is a soft, silvery-white, metallic element.",
+		"usage": "Europium is used in the manufacture of phosphors and in lasers.",
+		"stableIsotopes": [
+			151,
+			153
+		]
+	},
+	{
+		"atomicNumber": 64,
+		"weight": 157.25,
+		"name": "Gadolinium",
+		"symbol": "Gd",
+		"description": "Gadolinium is the sixty-fourth element on the periodic table. It is a soft, silvery-white, metallic element.",
+		"usage": "Gadolinium is used in alloys, electronics, and nuclear reactors.",
+		"stableIsotopes": [
+			152,
+			154,
+			155,
+			156,
+			157,
+			158,
+			160
+		]
+	},
+	{
+		"atomicNumber": 65,
+		"weight": 158.9254,
+		"name": "Terbium",
+		"symbol": "Tb",
+		"description": "Terbium is the sixty-fifth element on the periodic table. It is a soft, silvery-white, metallic element.",
+		"usage": "Terbium is used in the manufacture of alloys, electronics, and lasers.",
+		"stableIsotopes": [
+			159
+		]
+	},
+	{
+		"atomicNumber": 66,
+		"weight": 162.5,
+		"name": "Dysprosium",
+		"symbol": "Dy",
+		"description": "Dysprosium is the sixty-sixth element on the periodic table. It is a soft, silvery-white, metallic element.",
+		"usage": "Dysprosium is used in the manufacture of lasers, magnets, and alloys.",
+		"stableIsotopes": [
+			156,
+			158,
+			160,
+			161,
+			162,
+			163,
+			164
+		]
+	},
+	{
+		"atomicNumber": 67,
+		"weight": 164.9303,
+		"name": "Holmium",
+		"symbol": "Ho",
+		"description": "Holmium is the sixty-seventh element on the periodic table. It is a soft, silvery-white, metallic element.",
+		"usage": "Holmium is used in the manufacture of lasers, magnets, and alloys.",
+		"stableIsotopes": [
+			165
+		]
+	},
+	{
+		"atomicNumber": 68,
+		"weight": 167.259,
+		"name": "Erbium",
+		"symbol": "Er",
+		"description": "Erbium is the sixty-eighth element on the periodic table. It is a soft, silvery-white, metallic element.",
+		"usage": "Erbium is used in the manufacture of lasers, magnets, and alloys.",
+		"stableIsotopes": [
+			162,
+			164,
+			166,
+			167,
+			168,
+			170
+		]
+	},
+	{
+		"atomicNumber": 69,
+		"weight": 168.9342,
+		"name": "Thulium",
+		"symbol": "Tm",
+		"description": "Thulium is the sixty-ninth element on the periodic table. It is a soft, silvery-white, metallic element.",
+		"usage": "Thulium is used in the manufacture of lasers and X-ray equipment.",
+		"stableIsotopes": [
+			169
+		]
+	},
+	{
+		"atomicNumber": 70,
+		"weight": 173.04,
+		"name": "Ytterbium",
+		"symbol": "Yb",
+		"description": "Ytterbium is the seventieth element on the periodic table. It is a soft, silvery-white, metallic element.",
+		"usage": "Ytterbium is used in the manufacture of lasers, magnets, and alloys.",
+		"stableIsotopes": [
+			168,
+			170,
+			171,
+			172,
+			173,
+			174,
+			176
+		]
+	},
+	{
+		"atomicNumber": 71,
+		"weight": 174.967,
+		"name": "Lutetium",
+		"symbol": "Lu",
+		"description": "Lutetium is the seventy-first element on the periodic table. It is a soft, silvery-white, metallic element.",
+		"usage": "Lutetium is used in the manufacture of lasers, magnets, and alloys.",
+		"stableIsotopes": [
+			175
+		]
+	},
+	{
+		"atomicNumber": 72,
+		"weight": 178.49,
+		"name": "Hafnium",
+		"symbol": "Hf",
+		"description": "Hafnium is the seventy-second element on the periodic table. It is a hard, silvery-gray, metallic element.",
+		"usage": "Hafnium is used in the manufacture of alloys and semiconductors.",
+		"stableIsotopes": [
+			174,
+			176,
+			177,
+			178,
+			179,
+			180
+		]
+	},
+	{
+		"atomicNumber": 73,
+		"weight": 180.9479,
+		"name": "Tantalum",
+		"symbol": "Ta",
+		"description": "Tantalum is the seventy-third element on the periodic table. It is a hard, gray, metallic element.",
+		"usage": "Tantalum is used in the manufacture of alloys, capacitors, and surgical implants.",
+		"stableIsotopes": [
+			180,
+			181
+		]
+	},
+	{
+		"atomicNumber": 74,
+		"weight": 183.84,
+		"name": "Tungsten",
+		"symbol": "W",
+		"description": "Tungsten is the seventy-fourth element on the periodic table. It is a hard, heavy, steel-gray metallic element.",
+		"usage": "Tungsten is used in the manufacture of alloys, lamps, and high-strength steels.",
+		"stableIsotopes": [
+			180,
+			182,
+			183,
+			184,
+			186
+		]
+	},
+	{
+		"atomicNumber": 75,
+		"weight": 186.207,
+		"name": "Rhenium",
+		"symbol": "Re",
+		"description": "Rhenium is the seventy-fifth element on the periodic table. It is a hard, brittle, silvery-white metallic element.",
+		"usage": "Rhenium is used in the manufacture of alloys, catalysts, and electronics.",
+		"stableIsotopes": [
+			185,
+			187
+		]
+	},
+	{
+		"atomicNumber": 76,
+		"weight": 190.23,
+		"name": "Osmium",
+		"symbol": "Os",
+		"description": "Osmium is the seventy-sixth element on the periodic table. It is a hard, brittle, bluish-white metallic element.",
+		"usage": "Osmium is used in the manufacture of alloys and catalysts.",
+		"stableIsotopes": [
+			184,
+			186,
+			187,
+			188,
+			189,
+			190,
+			192
+		]
+	},
+	{
+		"atomicNumber": 77,
+		"weight": 192.217,
+		"name": "Iridium",
+		"symbol": "Ir",
+		"description": "Iridium is the seventy-seventh element on the periodic table. It is a hard, brittle, silvery-white metallic element.",
+		"usage": "Iridium is used in the manufacture of alloys and electrical contacts.",
+		"stableIsotopes": [
+			191,
+			193
+		]
+	},
+	{
+		"atomicNumber": 78,
+		"weight": 195.084,
+		"name": "Platinum",
+		"symbol": "Pt",
+		"description": "Platinum is the seventy-eighth element on the periodic table. It is a soft, dense, silvery-white metallic element.",
+		"usage": "Platinum is used in jewelry, catalysts, and electrical contacts.",
+		"stableIsotopes": [
+			190,
+			192,
+			194,
+			195,
+			196,
+			198
+		]
+	},
+	{
+		"atomicNumber": 79,
+		"weight": 196.9665,
+		"name": "Gold",
+		"symbol": "Au",
+		"description": "Gold is the seventy-ninth element on the periodic table. It is a soft, dense, yellow-gold, metallic element.",
+		"usage": "Gold is used in jewelry, coins, and electronics.",
+		"stableIsotopes": [
+			197
+		]
+	},
+	{
+		"atomicNumber": 80,
+		"weight": 200.59,
+		"name": "Mercury",
+		"symbol": "Hg",
+		"description": "Mercury is the eightieth element on the periodic table. It is a heavy, silvery-white, liquid metallic element.",
+		"usage": "Mercury is used in thermometers, barometers, and electrical switches.",
+		"stableIsotopes": [
+			196,
+			198,
+			199,
+			200,
+			201,
+			202,
+			204
+		]
+	},
+	{
+		"atomicNumber": 81,
+		"weight": 204.3833,
+		"name": "Thallium",
+		"symbol": "Tl",
+		"description": "Thallium is the eighty-first element on the periodic table. It is a soft, malleable, silvery-gray metallic element.",
+		"usage": "Thallium is used in the manufacture of alloys, semiconductors, and photocells.",
+		"stableIsotopes": [
+			203,
+			205
+		]
+	},
+	{
+		"atomicNumber": 82,
+		"weight": 207.2,
+		"name": "Lead",
+		"symbol": "Pb",
+		"description": "Lead is the eighty-second element on the periodic table. It is a soft, malleable, blue-gray metallic element.",
+		"usage": "Lead is used in the manufacture of batteries, ammunition, and radiation shielding.",
+		"stableIsotopes": [
+			204,
+			206,
+			207,
+			208
+		]
+	},
+	{
+		"atomicNumber": 83,
+		"weight": 208.9804,
+		"name": "Bismuth",
+		"symbol": "Bi",
+		"description": "Bismuth is the eighty-third element on the periodic table. It is a soft, white, brittle, metallic element.",
+		"usage": "Bismuth is used in the manufacture of cosmetics, alloys, and pharmaceuticals.",
+		"stableIsotopes": [
+			209
+		]
+	},
+	{
+		"atomicNumber": 84,
+		"weight": 209,
+		"name": "Polonium",
+		"symbol": "Po",
+		"description": "Polonium is the eighty-fourth element on the periodic table. It is a soft, silvery-gray, radioactive metallic element.",
+		"usage": "Polonium is used in nuclear reactors, atomic batteries, and as a neutron source.",
+		"stableIsotopes": [
+			210
+		]
+	},
+	{
+		"atomicNumber": 85,
+		"weight": 210,
+		"name": "Astatine",
+		"symbol": "At",
+		"description": "Astatine is the eighty-fifth element on the periodic table. It is a radioactive, halogen element.",
+		"usage": "Astatine is used in medical research and in the treatment of cancer.",
+		"stableIsotopes": [
+			210,
+			211
+		]
+	},
+	{
+		"atomicNumber": 86,
+		"weight": 222,
+		"name": "Radon",
+		"symbol": "Rn",
+		"description": "Radon is the eighty-sixth element on the periodic table. It is a colorless, odorless, radioactive gas.",
+		"usage": "Radon is used in medical research and in the production of nuclear power.",
+		"stableIsotopes": [
+			222
+		]
+	},
+	{
+		"atomicNumber": 87,
+		"weight": 223,
+		"name": "Francium",
+		"symbol": "Fr",
+		"description": "Francium is the eighty-seventh element on the periodic table. It is a soft, silvery-white, radioactive metal.",
+		"usage": "Francium is used in medical research and in the production of nuclear power.",
+		"stableIsotopes": [
+			223
+		]
+	},
+	{
+		"atomicNumber": 88,
+		"weight": 226,
+		"name": "Radium",
+		"symbol": "Ra",
+		"description": "Radium is the eighty-eighth element on the periodic table. It is a soft, silvery-white, radioactive metal.",
+		"usage": "Radium is used in medical research and in the production of nuclear power.",
+		"stableIsotopes": [
+			226
+		]
+	},
+	{
+		"atomicNumber": 89,
+		"weight": 227,
+		"name": "Actinium",
+		"symbol": "Ac",
+		"description": "Actinium is the eighty-ninth element on the periodic table. It is a soft, silvery-white, radioactive metal.",
+		"usage": "Actinium is used in medical research and in the production of nuclear power.",
+		"stableIsotopes": [
+			227
+		]
+	},
+	{
+		"atomicNumber": 90,
+		"weight": 232.0381,
+		"name": "Thorium",
+		"symbol": "Th",
+		"description": "Thorium is the ninetieth element on the periodic table. It is a soft, silvery-white, radioactive metal.",
+		"usage": "Thorium is used in nuclear reactors and in radiation shielding.",
+		"stableIsotopes": [
+			230,
+			232
+		]
+	},
+	{
+		"atomicNumber": 91,
+		"weight": 231.0359,
+		"name": "Protactinium",
+		"symbol": "Pa",
+		"description": "Protactinium is the ninety-first element on the periodic table. It is a soft, silvery-white, radioactive metal.",
+		"usage": "Protactinium is used in medical research and in the production of nuclear power.",
+		"stableIsotopes": [
+			231
+		]
+	},
+	{
+		"atomicNumber": 92,
+		"weight": 238.0289,
+		"name": "Uranium",
+		"symbol": "U",
+		"description": "Uranium is the ninety-second element on the periodic table. It is a hard, dense, silvery-gray, radioactive metal.",
+		"usage": "Uranium is used in nuclear reactors, nuclear weapons, and as fuel for nuclear power.",
+		"stableIsotopes": [
+			234,
+			235,
+			238
+		]
+	},
+	{
+		"atomicNumber": 93,
+		"weight": 237,
+		"name": "Neptunium",
+		"symbol": "Np",
+		"description": "Neptunium is the ninety-third element on the periodic table. It is a hard, radioactive, metallic element.",
+		"usage": "Neptunium is used in nuclear reactors and in the production of nuclear weapons.",
+		"stableIsotopes": [
+			237
+		]
+	},
+	{
+		"atomicNumber": 94,
+		"weight": 244,
+		"name": "Plutonium",
+		"symbol": "Pu",
+		"description": "Plutonium is the ninety-fourth element on the periodic table. It is a radioactive, metallic element.",
+		"usage": "Plutonium is used in nuclear reactors and in the production of nuclear weapons.",
+		"stableIsotopes": [
+			238,
+			239,
+			240,
+			241,
+			242,
+			244
+		]
+	},
+	{
+		"atomicNumber": 95,
+		"weight": 243,
+		"name": "Americium",
+		"symbol": "Am",
+		"description": "Americium is the ninety-fifth element on the periodic table. It is a radioactive, metallic element.",
+		"usage": "Americium is used in smoke detectors, nuclear medicines, and other radiation applications.",
+		"stableIsotopes": [
+			241,
+			242,
+			243
+		]
+	},
+	{
+		"atomicNumber": 96,
+		"weight": 247,
+		"name": "Curium",
+		"symbol": "Cm",
+		"description": "Curium is the ninety-sixth element on the periodic table. It is a radioactive, metallic element.",
+		"usage": "Curium is used in nuclear reactors and in the production of nuclear weapons.",
+		"stableIsotopes": [
+			243,
+			244,
+			245,
+			246,
+			247
+		]
+	},
+	{
+		"atomicNumber": 97,
+		"weight": 247,
+		"name": "Berkelium",
+		"symbol": "Bk",
+		"description": "Berkelium is the ninety-seventh element on the periodic table. It is a radioactive, metallic element.",
+		"usage": "Berkelium is used in nuclear reactors and in the production of nuclear weapons.",
+		"stableIsotopes": [
+			247
+		]
+	},
+	{
+		"atomicNumber": 98,
+		"weight": 251,
+		"name": "Californium",
+		"symbol": "Cf",
+		"description": "Californium is the ninety-eighth element on the periodic table. It is a radioactive, metallic element.",
+		"usage": "Californium is used in nuclear reactors and in the production of nuclear weapons.",
+		"stableIsotopes": [
+			249,
+			250,
+			251
+		]
+	},
+	{
+		"atomicNumber": 99,
+		"weight": 252,
+		"name": "Einsteinium",
+		"symbol": "Es",
+		"description": "Einsteinium is the ninety-ninth element on the periodic table. It is a radioactive, metallic element.",
+		"usage": "Einsteinium is used in nuclear reactors and in the production of nuclear weapons.",
+		"stableIsotopes": [
+			252
+		]
+	},
+	{
+		"atomicNumber": 100,
+		"weight": 257,
+		"name": "Fermium",
+		"symbol": "Fm",
+		"description": "Fermium is the one hundredth element on the periodic table. It is a radioactive, metallic element.",
+		"usage": "Fermium is used in nuclear reactors and in the production of nuclear weapons.",
+		"stableIsotopes": [
+			253,
+			254,
+			255,
+			256,
+			257
+		]
+	},
+	{
+		"atomicNumber": 101,
+		"weight": 258,
+		"name": "Mendelevium",
+		"symbol": "Md",
+		"description": "Mendelevium is the one hundred and first element on the periodic table. It is a radioactive, metallic element.",
+		"usage": "Mendelevium is used in nuclear reactors and in the production of nuclear weapons.",
+		"stableIsotopes": [
+			258
+		]
+	},
+	{
+		"atomicNumber": 102,
+		"weight": 259,
+		"name": "Nobelium",
+		"symbol": "No",
+		"description": "Nobelium is the one hundred and second element on the periodic table. It is a radioactive, metallic element.",
+		"usage": "Nobelium is used in nuclear reactors and in the production of nuclear weapons.",
+		"stableIsotopes": [
+			259
+		]
+	},
+	{
+		"atomicNumber": 103,
+		"weight": 262,
+		"name": "Lawrencium",
+		"symbol": "Lr",
+		"description": "Lawrencium is the one hundred and third element on the periodic table. It is a radioactive, metallic element.",
+		"usage": "Lawrencium is used in nuclear reactors and in the production of nuclear weapons.",
+		"stableIsotopes": [
+			262
+		]
+	},
+	{
+		"atomicNumber": 104,
+		"weight": 265,
+		"name": "Rutherfordium",
+		"symbol": "Rf",
+		"description": "Rutherfordium is the one hundred and fourth element on the periodic table. It is a radioactive, metallic element.",
+		"usage": "Rutherfordium is used in nuclear reactors and in the production of nuclear weapons.",
+		"stableIsotopes": [
+			267
+		]
+	},
+	{
+		"atomicNumber": 105,
+		"weight": 268,
+		"name": "Dubnium",
+		"symbol": "Db",
+		"description": "Dubnium is the one hundred and fifth element on the periodic table. It is a radioactive, metallic element.",
+		"usage": "Dubnium is used in nuclear reactors and in the production of nuclear weapons.",
+		"stableIsotopes": [
+			268
+		]
+	},
+	{
+		"atomicNumber": 106,
+		"weight": 271,
+		"name": "Seaborgium",
+		"symbol": "Sg",
+		"description": "Seaborgium is the one hundred and sixth element on the periodic table. It is a radioactive, metallic element.",
+		"usage": "Seaborgium is used in nuclear reactors and in the production of nuclear weapons.",
+		"stableIsotopes": [
+			271
+		]
+	},
+	{
+		"atomicNumber": 107,
+		"weight": 272,
+		"name": "Bohrium",
+		"symbol": "Bh",
+		"description": "Bohrium is the one hundred and seventh element on the periodic table. It is a radioactive, metallic element.",
+		"usage": "Bohrium is used in nuclear reactors and in the production of nuclear weapons.",
+		"stableIsotopes": [
+			272
+		]
+	},
+	{
+		"atomicNumber": 108,
+		"weight": 270,
+		"name": "Hassium",
+		"symbol": "Hs",
+		"description": "Hassium is the one hundred and eighth element on the periodic table. It is a radioactive, metallic element.",
+		"usage": "Hassium is used in nuclear reactors and in the production of nuclear weapons.",
+		"stableIsotopes": [
+			270
+		]
+	},
+	{
+		"atomicNumber": 109,
+		"weight": 277,
+		"name": "Meitnerium",
+		"symbol": "Mt",
+		"description": "Meitnerium is the one hundred and ninth element on the periodic table. It is a radioactive, metallic element.",
+		"usage": "Meitnerium is used in nuclear reactors and in the production of nuclear weapons.",
+		"stableIsotopes": [
+			277
+		]
+	},
+	{
+		"atomicNumber": 110,
+		"weight": 276,
+		"name": "Darmstadtium",
+		"symbol": "Ds",
+		"description": "Darmstadtium is the one hundred and tenth element on the periodic table. It is a radioactive, metallic element.",
+		"usage": "Darmstadtium is used in nuclear reactors and in the production of nuclear weapons.",
+		"stableIsotopes": [
+			281
+		]
+	},
+	{
+		"atomicNumber": 111,
+		"weight": 281,
+		"name": "Roentgenium",
+		"symbol": "Rg",
+		"description": "Roentgenium is the one hundred and eleventh element on the periodic table. It is a radioactive, metallic element.",
+		"usage": "Roentgenium is used in nuclear reactors and in the production of nuclear weapons.",
+		"stableIsotopes": [
+			282
+		]
+	},
+	{
+		"atomicNumber": 112,
+		"weight": 280,
+		"name": "Copernicium",
+		"symbol": "Cn",
+		"description": "Copernicium is the one hundred and twelfth element on the periodic table. It is a radioactive, metallic element.",
+		"usage": "Copernicium is used in nuclear reactors and in the production of nuclear weapons.",
+		"stableIsotopes": [
+			285
+		]
+	},
+	{
+		"atomicNumber": 113,
+		"weight": 285,
+		"name": "Nihonium",
+		"symbol": "Nh",
+		"description": "Nihonium is the one hundred and thirteenth element on the periodic table. It is a radioactive, metallic element.",
+		"usage": "Nihonium is used in nuclear reactors and in the production of nuclear weapons.",
+		"stableIsotopes": [
+			286
+		]
+	},
+	{
+		"atomicNumber": 114,
+		"weight": 284,
+		"name": "Flerovium",
+		"symbol": "Fl",
+		"description": "Flerovium is the one hundred and fourteenth element on the periodic table. It is a radioactive, metallic element.",
+		"usage": "Flerovium is used in nuclear reactors and in the production of nuclear weapons.",
+		"stableIsotopes": [
+			289
+		]
+	},
+	{
+		"atomicNumber": 115,
+		"weight": 289,
+		"name": "Moscovium",
+		"symbol": "Mc",
+		"description": "Moscovium is the one hundred and fifteenth element on the periodic table. It is a radioactive, metallic element.",
+		"usage": "Moscovium is used in nuclear reactors and in the production of nuclear weapons.",
+		"stableIsotopes": [
+			290
+		]
+	},
+	{
+		"atomicNumber": 116,
+		"weight": 288,
+		"name": "Livermorium",
+		"symbol": "Lv",
+		"description": "Livermorium is the one hundred and sixteenth element on the periodic table. It is a radioactive, metallic element.",
+		"usage": "Livermorium is used in nuclear reactors and in the production of nuclear weapons.",
+		"stableIsotopes": [
+			293
+		]
+	},
+	{
+		"atomicNumber": 117,
+		"weight": 293,
+		"name": "Tennessine",
+		"symbol": "Ts",
+		"description": "Tennessine is the one hundred and seventeenth element on the periodic table. It is a radioactive, metallic element.",
+		"usage": "Tennessine is used in nuclear reactors and in the production of nuclear weapons.",
+		"stableIsotopes": [
+			294
+		]
+	},
+	{
+		"atomicNumber": 118,
+		"weight": 294,
+		"name": "Oganesson",
+		"symbol": "Og",
+		"description": "Oganesson is the one hundred and eighteenth element on the periodic table. It is a radioactive, metallic element.",
+		"usage": "Oganesson is used in nuclear reactors and in the production of nuclear weapons.",
+		"stableIsotopes": [
+			294
+		]
+	}
+]

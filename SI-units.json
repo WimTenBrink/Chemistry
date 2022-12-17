@@ -1,0 +1,364 @@
+{
+	"SI Units": [
+		{
+			"Name": "Meter",
+			"Symbol": "m",
+			"Abbreviation": "Metric system/SI unit of length",
+			"Description": "A meter is the base unit of length in the International System of Units (SI). It is equal to the distance light travels in a vacuum in 1/299,792,458 of a second.",
+			"SimilarUnits": [
+				{
+					"Name": "Yard",
+					"Symbol": "yd",
+					"Conversion": "1 yard = 0.9144 m"
+				},
+				{
+					"Name": "Foot",
+					"Symbol": "ft",
+					"Conversion": "1 foot = 0.3048 m"
+				}
+			]
+		},
+		{
+			"Name": "Kilogram",
+			"Symbol": "kg",
+			"Abbreviation": "Metric system/SI unit of mass",
+			"Description": "The kilogram is the base unit of mass in the International System of Units (SI). It is equal to the mass of a platinum-iridium cylinder stored by the International Bureau of Weights and Measures.",
+			"SimilarUnits": [
+				{
+					"Name": "Pound",
+					"Symbol": "lb",
+					"Conversion": "1 pound = 0.45359237 kg"
+				},
+				{
+					"Name": "Gram",
+					"Symbol": "g",
+					"Conversion": "1 gram = 0.001 kg"
+				}
+			]
+		},
+		{
+			"Name": "Second",
+			"Symbol": "s",
+			"Abbreviation": "Metric system/SI unit of time",
+			"Description": "The second is the base unit of time in the International System of Units (SI). It is equal to the duration of 9,192,631,770 periods of the radiation corresponding to the transition between the two hyperfine levels of the ground state of the cesium-133 atom.",
+			"SimilarUnits": [
+				{
+					"Name": "Minute",
+					"Symbol": "min",
+					"Conversion": "1 minute = 60 seconds"
+				},
+				{
+					"Name": "Hour",
+					"Symbol": "hr",
+					"Conversion": "1 hour = 3600 seconds"
+				}
+			]
+		},
+		{
+			"Name": "Ampere",
+			"Symbol": "A",
+			"Abbreviation": "Metric system/SI unit of electric current",
+			"Description": "The ampere is the base unit of electric current in the International System of Units (SI). It is equal to the flow of one coulomb of electric charge per second.",
+			"SimilarUnits": [
+				{
+					"Name": "Milliampere",
+					"Symbol": "mA",
+					"Conversion": "1 milliampere = 0.001 amperes"
+				},
+				{
+					"Name": "Microampere",
+					"Symbol": "μA",
+					"Conversion": "1 microampere = 0.000001 amperes"
+				}
+			]
+		},
+		{
+			"Name": "Kelvin",
+			"Symbol": "K",
+			"Abbreviation": "Metric system/SI unit of thermodynamic temperature",
+			"Description": "The kelvin is the base unit of thermodynamic temperature in the International System of Units (SI). It is equal to the fraction 1/273.16 of the thermodynamic temperature of the triple point of water.",
+			"SimilarUnits": [
+				{
+					"Name": "Celsius",
+					"Symbol": "°C",
+					"Conversion": "1 degree Celsius = 1 kelvin - 273.15"
+				},
+				{
+					"Name": "Fahrenheit",
+					"Symbol": "°F",
+					"Conversion": "1 degree Fahrenheit = 5/9 (kelvin - 273.15)"
+				}
+			]
+		},
+		{
+			"Name": "Candela",
+			"Symbol": "cd",
+			"Abbreviation": "Metric system/SI unit of luminous intensity",
+			"Description": "The candela is the base unit of luminous intensity in the International System of Units (SI). It is equal to the luminous intensity in a given direction of a source that emits monochromatic radiation of frequency 540 × 1012 hertz and that has a radiant intensity in that direction of 1/683 watt per steradian.",
+			"SimilarUnits": [
+				{
+					"Name": "Lumen",
+					"Symbol": "lm",
+					"Conversion": "1 lumen = 1 candela steradian"
+				},
+				{
+					"Name": "Lux",
+					"Symbol": "lx",
+					"Conversion": "1 lux = 1 lumen/m2"
+				}
+			]
+		},
+		{
+			"Name": "Mole",
+			"Symbol": "mol",
+			"Abbreviation": "Metric system/SI unit of amount of substance",
+			"Description": "The mole is the base unit of amount of substance in the International System of Units (SI). It is equal to the amount of substance of a system which contains as many elementary entities as there are atoms in 0.012 kilogram of carbon-12.",
+			"SimilarUnits": [
+				{
+					"Name": "Gram Molecular Weight",
+					"Symbol": "g/mol",
+					"Conversion": "1 gram molecular weight = 1 mole"
+				},
+				{
+					"Name": "Kilomole",
+					"Symbol": "kmol",
+					"Conversion": "1 kilomole = 1000 moles"
+				}
+			]
+		},
+		{
+			"Name": "Hertz",
+			"Symbol": "Hz",
+			"Abbreviation": "Metric system/SI unit of frequency",
+			"Description": "The hertz is the base unit of frequency in the International System of Units (SI). It is equal to one cycle per second.",
+			"SimilarUnits": [
+				{
+					"Name": "Kilohertz",
+					"Symbol": "kHz",
+					"Conversion": "1 kilohertz = 1000 hertz"
+				},
+				{
+					"Name": "Megahertz",
+					"Symbol": "MHz",
+					"Conversion": "1 megahertz = 1000000 hertz"
+				}
+			]
+		},
+		{
+			"Name": "Newton",
+			"Symbol": "N",
+			"Abbreviation": "Metric system/SI unit of force",
+			"Description": "The newton is the base unit of force in the International System of Units (SI). It is equal to the force that gives a mass of one kilogram an acceleration of one metre per second squared.",
+			"SimilarUnits": [
+				{
+					"Name": "Kilogram-force",
+					"Symbol": "kgf",
+					"Conversion": "1 kilogram-force = 9.80665 newtons"
+				},
+				{
+					"Name": "Pound-force",
+					"Symbol": "lbf",
+					"Conversion": "1 pound-force = 4.4482216 newtons"
+				}
+			]
+		},
+		{
+			"Name": "Pascal",
+			"Symbol": "Pa",
+			"Abbreviation": "Metric system/SI unit of pressure",
+			"Description": "The pascal is the base unit of pressure in the International System of Units (SI). It is equal to one newton per square metre.",
+			"SimilarUnits": [
+				{
+					"Name": "Atmosphere",
+					"Symbol": "atm",
+					"Conversion": "1 atmosphere = 101325 pascals"
+				},
+				{
+					"Name": "Millimeter of Mercury",
+					"Symbol": "mmHg",
+					"Conversion": "1 millimeter of mercury = 133.322 pascals"
+				}
+			]
+		},
+		{
+			"Name": "Volt",
+			"Symbol": "V",
+			"Abbreviation": "Metric system/SI unit of electric potential",
+			"Description": "The volt is the base unit of electric potential in the International System of Units (SI). It is equal to the difference of electric potential between two points of a conducting wire carrying a constant current of one ampere when the power dissipated between these points is one watt.",
+			"SimilarUnits": [
+				{
+					"Name": "Millivolt",
+					"Symbol": "mV",
+					"Conversion": "1 millivolt = 0.001 volts"
+				},
+				{
+					"Name": "Microvolt",
+					"Symbol": "μV",
+					"Conversion": "1 microvolt = 0.000001 volts"
+				}
+			]
+		},
+		{
+			"Name": "Joule",
+			"Symbol": "J",
+			"Abbreviation": "Metric system/SI unit of energy",
+			"Description": "The joule is the base unit of energy in the International System of Units (SI). It is equal to the energy transferred to an object by the work of moving it a distance of one metre against a force of one newton.",
+			"SimilarUnits": [
+				{
+					"Name": "Calorie",
+					"Symbol": "cal",
+					"Conversion": "1 calorie = 4.184 joules"
+				},
+				{
+					"Name": "Kilojoule",
+					"Symbol": "kJ",
+					"Conversion": "1 kilojoule = 1000 joules"
+				}
+			]
+		},
+		{
+			"Name": "Watt",
+			"Symbol": "W",
+			"Abbreviation": "Metric system/SI unit of power",
+			"Description": "The watt is the base unit of power in the International System of Units (SI). It is equal to one joule per second.",
+			"SimilarUnits": [
+				{
+					"Name": "Horsepower",
+					"Symbol": "hp",
+					"Conversion": "1 horsepower = 745.7 watts"
+				},
+				{
+					"Name": "Kilowatt",
+					"Symbol": "kW",
+					"Conversion": "1 kilowatt = 1000 watts"
+				}
+			]
+		},
+		{
+			"Name": "Coulomb",
+			"Symbol": "C",
+			"Abbreviation": "Metric system/SI unit of electric charge",
+			"Description": "The coulomb is the base unit of electric charge in the International System of Units (SI). It is equal to the charge carried by one ampere per second.",
+			"SimilarUnits": [
+				{
+					"Name": "Millicoulomb",
+					"Symbol": "mc",
+					"Conversion": "1 millicoulomb = 0.001 coulomb"
+				},
+				{
+					"Name": "Microcoulomb",
+					"Symbol": "μC",
+					"Conversion": "1 microcoulomb = 0.000001 coulomb"
+				}
+			]
+		},
+		{
+			"Name": "Tesla",
+			"Symbol": "T",
+			"Abbreviation": "Metric system/SI unit of magnetic flux density",
+			"Description": "The tesla is the base unit of magnetic flux density in the International System of Units (SI). It is equal to one weber per square metre.",
+			"SimilarUnits": [
+				{
+					"Name": "Gauss",
+					"Symbol": "G",
+					"Conversion": "1 gauss = 0.0001 tesla"
+				},
+				{
+					"Name": "Weber",
+					"Symbol": "Wb",
+					"Conversion": "1 weber = 1 tesla metre2"
+				}
+			]
+		},
+		{
+			"Name": "Henry",
+			"Symbol": "H",
+			"Abbreviation": "Metric system/SI unit of inductance",
+			"Description": "The henry is the base unit of inductance in the International System of Units (SI). It is equal to the inductance of a closed circuit in which an electromotive force of one volt is produced when the electric current in the circuit varies uniformly at a rate of one ampere per second.",
+			"SimilarUnits": [
+				{
+					"Name": "Millihenry",
+					"Symbol": "mH",
+					"Conversion": "1 millihenry = 0.001 henrys"
+				},
+				{
+					"Name": "Microhenry",
+					"Symbol": "μH",
+					"Conversion": "1 microhenry = 0.000001 henrys"
+				}
+			]
+		},
+		{
+			"Name": "Siemens",
+			"Symbol": "S",
+			"Abbreviation": "Metric system/SI unit of electrical conductance",
+			"Description": "The siemens is the base unit of electrical conductance in the International System of Units (SI). It is equal to the reciprocal of the ohm.",
+			"SimilarUnits": [
+				{
+					"Name": "Mho",
+					"Symbol": "mho",
+					"Conversion": "1 mho = 1 siemens"
+				},
+				{
+					"Name": "Mho per metre",
+					"Symbol": "mho/m",
+					"Conversion": "1 mho per metre = 1 siemens/metre"
+				}
+			]
+		},
+		{
+			"Name": "Weber",
+			"Symbol": "Wb",
+			"Abbreviation": "Metric system/SI unit of magnetic flux",
+			"Description": "The weber is the base unit of magnetic flux in the International System of Units (SI). It is equal to the flux which, linking a circuit of one turn, would produce in it an electromotive force of one volt if it were reduced to zero at a uniform rate in one second.",
+			"SimilarUnits": [
+				{
+					"Name": "Maxwell",
+					"Symbol": "Mx",
+					"Conversion": "1 maxwell = 1 weber"
+				},
+				{
+					"Name": "Line",
+					"Symbol": "L",
+					"Conversion": "1 line = 1 weber/metre"
+				}
+			]
+		},
+		{
+			"Name": "Ohm",
+			"Symbol": "Ω",
+			"Abbreviation": "Metric system/SI unit of electrical resistance",
+			"Description": "The ohm is the base unit of electrical resistance in the International System of Units (SI). It is equal to the resistance between two points of a conductor when a constant potential difference of one volt, applied to these points, produces in the conductor a current of one ampere, the conductor not being the seat of any electromotive force.",
+			"SimilarUnits": [
+				{
+					"Name": "Kiloohm",
+					"Symbol": "kΩ",
+					"Conversion": "1 kiloohm = 1000 ohms"
+				},
+				{
+					"Name": "Megohm",
+					"Symbol": "MΩ",
+					"Conversion": "1 megohm = 1000000 ohms"
+				}
+			]
+		},
+		{
+			"Name": "Sievert",
+			"Symbol": "Sv",
+			"Abbreviation": "Metric system/SI unit of radiation dose",
+			"Description": "The sievert is the base unit of radiation dose in the International System of Units (SI). It is equal to the dose of radiation that will cause a change of one joule of energy per kilogram of matter.",
+			"SimilarUnits": [
+				{
+					"Name": "Gray",
+					"Symbol": "Gy",
+					"Conversion": "1 gray = 1 sievert"
+				},
+				{
+					"Name": "Roentgen",
+					"Symbol": "R",
+					"Conversion": "1 roentgen = 0.0093 sieverts"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "type": "Legionary",
+    "weapons": ["Gladius", "Pilum", "Scutum"],
+    "armor": ["Lorica Segmentata", "Clipeus", "Galea"],
+    "pay": "1 Denarius per day",
+    "origin": "Rome or Italy"
+  },
+  {
+    "type": "Auxiliary",
+    "weapons": ["Gladius", "Javelin", "Bow", "Spear"],
+    "armor": ["Lorica Hamata", "Galea", "Scutum"],
+    "pay": "1/2 Denarius per day",
+    "origin": "Other parts of the Empire"
+  },
+  {
+    "type": "Equites",
+    "weapons": ["Lancea", "Spatha", "Bow", "Spear"],
+    "armor": ["Lorica Segmentata", "Galea", "Clipeus"],
+    "pay": "2 Denarii per day",
+    "origin": "Rome or Italy"
+  },
+  {
+    "type": "Praetorian Guard",
+    "weapons": ["Gladius", "Spatha", "Bow", "Spear"],
+    "armor": ["Lorica Segmentata", "Galea", "Scutum"],
+    "pay": "3 Denarii per day",
+    "origin": "Rome or Italy"
+  },
+  {
+    "type": "Urban Cohort",
+    "weapons": ["Gladius", "Pilum", "Bow", "Spear"],
+    "armor": ["Lorica Hamata", "Galea", "Scutum"],
+    "pay": "1 Denarius per day",
+    "origin": "Rome or Italy"
+  },
+  {
+    "type": "Vigiles",
+    "weapons": ["Gladius", "Scourge", "Bow", "Spear"],
+    "armor": ["Lorica Hamata", "Galea", "Scutum"],
+    "pay": "1/2 Denarius per day",
+    "origin": "Rome or Italy"
+  },
+  {
+    "type": "Mariners",
+    "weapons": ["Gladius", "Pilum", "Bow", "Spear"],
+    "armor": ["Lorica Segmentata", "Galea", "Scutum"],
+    "pay": "1 Denarius per day",
+    "origin": "Rome or Italy"
+  },
+  {
+    "type": "Engineers",
+    "weapons": ["Gladius", "Spatha", "Bow", "Spear"],
+    "armor": ["Lorica Hamata", "Galea", "Scutum"],
+    "pay": "1/2 Denarius per day",
+    "origin": "Rome or Italy"
+  },
+  {
+    "type": "Archers",
+    "weapons": ["Bow", "Spear"],
+    "armor": ["Galea", "Scutum"],
+    "pay": "1/2 Denarius per day",
+    "origin": "Rome or Italy"
+  },
+  {
+    "type": "Scouts",
+    "weapons": ["Gladius", "Bow", "Spear"],
+    "armor": ["Galea", "Scutum"],
+    "pay": "1/2 Denarius per day",
+    "origin": "Rome or Italy"
+  },
+  {
+    "type": "Slaves",
+    "weapons": ["Gladius", "Scourge", "Bow", "Spear"],
+    "armor": [],
+    "pay": "None",
+    "origin": "Anywhere in the Roman Empire"
+  }
+]

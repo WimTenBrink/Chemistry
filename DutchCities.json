@@ -1,0 +1,204 @@
+{
+"Cities": [
+    {
+      "Name": "Amsterdam",
+      "Province": "Noord-Holland",
+      "Coordinates": {
+        "Latitude": "52.3667",
+        "Longitude": "4.8945"
+      }
+    },
+    {
+      "Name": "Rotterdam",
+      "Province": "Zuid-Holland",
+      "Coordinates": {
+        "Latitude": "51.9244",
+        "Longitude": "4.4777"
+      }
+    },
+    {
+      "Name": "Den Haag",
+      "Province": "Zuid-Holland",
+      "Coordinates": {
+        "Latitude": "52.0767",
+        "Longitude": "4.2986"
+      }
+    },
+    {
+      "Name": "Utrecht",
+      "Province": "Utrecht",
+      "Coordinates": {
+        "Latitude": "52.0907",
+        "Longitude": "5.1214"
+      }
+    },
+    {
+      "Name": "Eindhoven",
+      "Province": "Noord-Brabant",
+      "Coordinates": {
+        "Latitude": "51.4416",
+        "Longitude": "5.4697"
+      }
+    },
+    {
+      "Name": "Tilburg",
+      "Province": "Noord-Brabant",
+      "Coordinates": {
+        "Latitude": "51.5588",
+        "Longitude": "5.0899"
+      }
+    },
+    {
+      "Name": "Groningen",
+      "Province": "Groningen",
+      "Coordinates": {
+        "Latitude": "53.2192",
+        "Longitude": "6.5665"
+      }
+    },
+    {
+      "Name": "Almere",
+      "Province": "Flevoland",
+      "Coordinates": {
+        "Latitude": "52.3731",
+        "Longitude": "5.2341"
+      }
+    },
+    {
+      "Name": "Breda",
+      "Province": "Noord-Brabant",
+      "Coordinates": {
+        "Latitude": "51.5879",
+        "Longitude": "4.7796"
+      }
+    },
+    {
+      "Name": "Nijmegen",
+      "Province": "Gelderland",
+      "Coordinates": {
+        "Latitude": "51.8134",
+        "Longitude": "5.8384"
+      }
+    },
+    {
+      "Name": "Apeldoorn",
+      "Province": "Gelderland",
+      "Coordinates": {
+        "Latitude": "52.2110",
+        "Longitude": "5.9707"
+      }
+    },
+    {
+      "Name": "Haarlem",
+      "Province": "Noord-Holland",
+      "Coordinates": {
+        "Latitude": "52.3889",
+        "Longitude": "4.6349"
+      }
+    },
+    {
+      "Name": "Enschede",
+      "Province": "Overijssel",
+      "Coordinates": {
+        "Latitude": "52.2183",
+        "Longitude": "6.8938"
+      }
+    },
+    {
+      "Name": "Arnhem",
+      "Province": "Gelderland",
+      "Coordinates": {
+        "Latitude": "51.9844",
+        "Longitude": "5.8998"
+      }
+    },
+    {
+      "Name": "Zaanstad",
+      "Province": "Noord-Holland",
+      "Coordinates": {
+        "Latitude": "52.4657",
+        "Longitude": "4.8122"
+      }
+    },
+    {
+      "Name": "Amersfoort",
+      "Province": "Utrecht",
+      "Coordinates": {
+        "Latitude": "52.1567",
+        "Longitude": "5.3878"
+      }
+    },
+    {
+      "Name": "Haarlemmermeer",
+      "Province": "Noord-Holland",
+      "Coordinates": {
+        "Latitude": "52.3070",
+        "Longitude": "4.6921"
+      }
+    },
+    {
+      "Name": "Alkmaar",
+      "Province": "Noord-Holland",
+      "Coordinates": {
+        "Latitude": "52.6339",
+        "Longitude": "4.7522"
+      }
+    },
+    {
+      "Name": "Zoetermeer",
+      "Province": "Zuid-Holland",
+      "Coordinates": {
+        "Latitude": "52.0618",
+        "Longitude": "4.4900"
+      }
+    },
+    {
+      "Name": "Leiden",
+      "Province": "Zuid-Holland",
+      "Coordinates": {
+        "Latitude": "52.1601",
+        "Longitude": "4.4970"
+      }
+    },
+    {
+      "Name": "Dordrecht",
+      "Province": "Zuid-Holland",
+      "Coordinates": {
+        "Latitude": "51.8123",
+        "Longitude": "4.6919"
+      }
+    },
+    {
+      "Name": "Delft",
+      "Province": "Zuid-Holland",
+      "Coordinates": {
+        "Latitude": "52.0047",
+        "Longitude": "4.3571"
+      }
+    },
+    {
+      "Name": "Heerlen",
+      "Province": "Limburg",
+      "Coordinates": {
+        "Latitude": "50.8884",
+        "Longitude": "5.9781"
+      }
+    },
+    {
+      "Name": "Maastricht",
+      "Province": "Limburg",
+      "Coordinates": {
+        "Latitude": "50.8484",
+        "Longitude": "5.6878"
+      }
+    },
+    {
+      "Name": "Hilversum",
+      "Province": "Noord-Holland",
+      "Coordinates": {
+        "Latitude": "52.2300",
+        "Longitude": "5.1750"
+      }
+    }
+  ]
+}

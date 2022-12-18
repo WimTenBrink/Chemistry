@@ -1,0 +1,38 @@
+{
+    "HTML": [
+        "Why did the HTML element go to the gym? To become well-formed!", 
+        "Why did the HTML5 specification take so long? It was in draft mode for ages!",
+        "Why don't programmers like HTML? Because it's too markup-y!",
+        "What do you call an HTML element in denial? Tag-Noir!",
+        "How do you make a web page more secure? Add more HTML tags!",
+        "What did the HTML element say to its date? You complete me!", 
+        "Why does HTML have so many elements? So it can tag team!",
+        "Why did the HTML element go to the doctor? It had tag-itis!",
+        "Why don't HTML elements get along? They're always at tag!", 
+        "What do you call an HTML element that's out of control? A runaway tag!" 
+    ], 
+    "CSS": [
+        "Why don't CSS classes get along? They have a style conflict!", 
+        "What do you call a CSS property that's never late? Padding-on-time!",
+        "Why don't CSS values work together? They have a difference of opinion!",
+        "Why did the CSS property go to the doctor? It had a margin-ality!",
+        "Why don't CSS classes have any friends? They're too select-ive!",
+        "Why don't CSS values get along? They're always in dispute!",
+        "What do you call a CSS property that never gives up? Border-less!",
+        "Why did the CSS property go to the party? It was a real-ly special event!",
+        "Why don't CSS classes like to talk? They have nothing to say!", 
+        "What do you call a CSS property that always tells the truth? Font-face!" 
+    ],
+    "Javascript": [
+        "Why did the JavaScript variable go to the bar? For some type-casting!",
+        "Why don't JavaScript functions ever go on vacation? They always return!",
+        "Why did the JavaScript object go to the store? To get some property-wise shopping done!",
+        "Why don't JavaScript functions like parties? They don't like to be called!",
+        "Why did the JavaScript variable go to the restaurant? To get some type-food!",
+        "Why don't JavaScript objects ever get invited to parties? They're too object-ionable!",
+        "Why did the JavaScript function go to the spa? To get some parameter-massage!",
+        "Why don't JavaScript objects ever go on vacation? They don't have enough properties!",
+        "Why did the JavaScript variable go to the bank? To get some type-money!",
+        "Why don't JavaScript functions ever go on dates? They always return alone!" 
+    ]
+}

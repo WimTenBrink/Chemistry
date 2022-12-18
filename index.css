@@ -1,109 +1,155 @@
 /*
-Copyright (c) 2022 Fanny and Fiona Foxboom
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+	Copyright (c) 2022 Fanny and Fiona Foxboom
+	
+	Permission is hereby granted, free of charge, to any person obtaining a copy
+	of this software and associated documentation files (the "Software"), to deal
+	in the Software without restriction, including without limitation the rights
+	to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+	copies of the Software, and to permit persons to whom the Software is
+	furnished to do so, subject to the following conditions:
+	
+	The above copyright notice and this permission notice shall be included in all
+	copies or substantial portions of the Software.
+	
+	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+	IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+	FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+	AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+	LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+	SOFTWARE.
 */
-
 body {
     font-family: sans-serif;
+    text-align: left;
+    font-size: 1.0em;
+    height: 100%;
+    overflow-y: hidden;
+	display: flex;
+	flex-direction: column;
+}
+
+header {
+	margin: 0 auto;
+	text-align: center;
+	height: 10vh;
+	font-size: 1vh;
+}
+
+footer {
+	margin: 0 auto;
     text-align: center;
-    font-size: 1.2em;
+	height: 10vh;
+	font-size: 2vh;
 }
 
 h1 {
-    font-size: 2em;
+	margin: 0 auto;
+    font-size: 1.5em;
     font-weight: bold;
-    margin-bottom: 0.5em;
+    padding-bottom: 0.2em;
 }
 
-.intro {
-    border: 1px solid black;
-    padding: 1em;
-    font-size: 1.2em;
-}
-
-h3 {
-    font-size: 1.3em;
-    font-weight: bold;
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
-}
-
-li {
-    margin-bottom: 0.5em;
-}
-
-.copyright {
-    font-size: 0.8em;
-    font-style: italic;
-    margin-top: 1em;
-    margin-bottom: 1em;
-	}
-
-@media screen and (min-width: 600px) {
-    body {
-        font-size: 1.2em;
-    }
-    h1 {
-        font-size: 3em;
-    }
-    .intro {
-        font-size: 1.5em;
-    }
-}
-
-@media screen and (min-width: 1000px) {
-    body {
-        font-size: 1.5em;
-    }
-    h1 {
-        font-size: 4em;
-    }
-    .intro {
-        font-size: 2em;
-    }
-}
-
-.panel {
-	width: 20%;
+aside {
+	margin: 0 auto;
+	width: 20vw;
 	min-width: 120px;
 }
 
-.panel img {
+aside img {
 	width: 100%;
-	border-radius: 10px;
+	border-radius: 20px;
 }
 
-@media (max-width: 768px) {
-	.panel {
-		display: none;
-	}
+article {
+	margin: 0 auto;
+	margin-bottom: 5px;
+	padding: 2px;
+	font-size: 1.5vh;
+	border: 2px dotted #dda0dd;
+}
+
+article h2 {
+	margin: 0 auto;
+	color: navy;
+	font-size: 2vh;
+}
+
+main {
+	margin: 0 auto;
+	padding: 10px;
+    width: 100%;
+    overflow: auto;
+	border-radius: 10px;
+    background-color: #c2c2c2;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    padding-left: 10px;
+}
+
+a:visited {
+    color: purple;
+    text-decoration: none;
+    padding-left: 10px;
+}
+
+summary::before {
+    content: "\2191";
+	padding-right: 10px;
+}
+
+summary::after {
+    content: "\2191";
+	padding-left: 10px;
 }
 
 .container {
 	display: flex;
+    height: 80vh;
 }
 
-.main-content {
-	margin: 0 auto;
-    width: 100%;
-    height: 90vh;
-    overflow: auto;
-    background-color: #c2c2c2;
+.intro {
+    border: 1px solid black;
+    padding: 0.75em;
+    font-size: 0.9em;
+}
+
+.copyright {
+    font-size: 0.6em;
+    font-style: italic;
+    margin-top: 0.75em;
+    margin-bottom: 0.75em;
+}
+
+@media screen and (min-width: 600px) {
+    body {
+        font-size: 0.9em;
+	}
+    h1 {
+        font-size: 2.25em;
+	}
+    .intro {
+        font-size: 1.125em;
+	}
+}
+
+@media screen and (min-width: 1000px) {
+    body {
+        font-size: 1.125em;
+	}
+    h1 {
+        font-size: 3em;
+	}
+    .intro {
+        font-size: 1.5em;
+	}
+}
+
+@media (max-width: 768px) {
+	aside {
+		display: none;
+	}
 }
